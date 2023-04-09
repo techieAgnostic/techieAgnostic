@@ -1,4 +1,10 @@
-### Hi there 👋
+### Shaun Kerr
+
+Co-Founder & CEO at unknot. Email: shaun[at]unknot.xyz
+
+I'm proud of the following repositories:
+- my [cellular automata](https://github.com/techieAgnostic/cellularAutomata)
+- my [gameboy animation engine](https://github.com/techieAgnostic/testingAnimation)
 
 <!--
 **techieAgnostic/techieAgnostic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

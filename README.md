@@ -1,7 +1,5 @@
 ### Shaun Kerr
 
-Co-Founder & CTO at unknot. Email: shaun[at]unknot.xyz
-
 I'm proud of the following repositories:
 - my [cellular automata](https://github.com/techieAgnostic/cellularAutomata)
 - my [gameboy animation engine](https://github.com/techieAgnostic/testingAnimation)
